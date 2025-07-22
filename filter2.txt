@@ -1,6 +1,0 @@
-@@||openvpn.com^$important
-@@||instapro.looker.com^$important
-@@||instapro.com^$important
-||target-video.com^$important
-||greenvideo.io^$important
-||media-video.focus.de^$important
