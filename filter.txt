@@ -3,4 +3,5 @@
 @@||instapro.com^$important
 ||target-video.com^$important
 ||greenvideo.io^$important
+||cdn.greenvideo.io^$important
 ||media-video.focus.de^$important
