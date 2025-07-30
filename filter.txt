@@ -5,3 +5,6 @@
 ||greenvideo.io^$important
 ||cdn.greenvideo.io^$important
 ||media-video.focus.de^$important
+||geo.ads.brave.com^$important
+||static.ads.brave.com^$important
+
