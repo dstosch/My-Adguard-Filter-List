@@ -7,4 +7,7 @@
 ||media-video.focus.de^$important
 ||geo.ads.brave.com^$important
 ||static.ads.brave.com^$important
+@@||sentry.fits.check24.de^$important
+@@||cross.builders^$important
+@@||googleads.g.doubleclick.net^$important
 
