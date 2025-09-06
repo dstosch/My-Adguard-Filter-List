@@ -10,4 +10,4 @@
 @@||sentry.fits.check24.de^$important
 @@||cross.builders^$important
 @@||googleads.g.doubleclick.net^$important
-
+@@||report.error-report.com^$important
