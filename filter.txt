@@ -11,3 +11,4 @@
 @@||cross.builders^$important
 @@||googleads.g.doubleclick.net^$important
 @@||error-report.com^$important
+@@||region1.app-measurement.com^
