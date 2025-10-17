@@ -12,4 +12,11 @@
 @@||googleads.g.doubleclick.net^$important
 @@||error-report.com^$important
 @@||region1.app-measurement.com^important
+@@||roboforex.com^important
+@@||mql5.com^important
+@@||metatrader.com^important
+@@||metatrader5.com^important
+@@||libertex.com^important
+
+
 
